@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tcn1UTSAJZ6ax/ZXni4JTB+FKTSz+nYDY9tdQRUgZxUvydaFDuLmcPwgd2eZ8tFecrYA9XOFO3GqHQvhgdrGvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yolcu\\source\\repos\\ProjeNYP\\ProjeNYP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yolcu\\.nuget\\packages\\bouncycastle\\1.8.3.1\\bouncycastle.1.8.3.1.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\mysql.data\\8.0.22\\mysql.data.8.0.22.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\yolcu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
